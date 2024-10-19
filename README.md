@@ -1,6 +1,6 @@
-# code-nautilus
+# cursor-nautilus
 
-This repo provides a visual studio code extension for Nautilus.
+This repo provides a cursor ai ide extension for Nautilus.
 
 ## Install Extension
 
